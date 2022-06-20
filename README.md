@@ -6,7 +6,7 @@
 
 ## Setup
 
-Get the javascript from the CDN:
+Get the javascripts from the CDN:
 
     
     <script src="https://cdn.jsdelivr.net/gh/alltimenoob/PDFViewer/pdfviewer.js"></script>
@@ -31,5 +31,10 @@ Load PDF from raw data (base64 encoded):
 
     setData(base64Data); 
    
+## Questions
+
+Contact : 
+
++ https://twitter.com/pdfjs
     
     
