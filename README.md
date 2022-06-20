@@ -10,7 +10,7 @@ Get the javascript from the CDN:
 
     
     <script src="https://cdn.jsdelivr.net/gh/alltimenoob/PDFViewer/pdfviewer.js"></script>
-
+    <script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
 
 
 Get the clone respository:
