@@ -29,7 +29,7 @@ Create a container for your PDF:
 Load PDF from raw data (base64 encoded):
 
 
-    setData(document.getElementById("data").value); 
+    setData(base64Data); 
    
     
     
