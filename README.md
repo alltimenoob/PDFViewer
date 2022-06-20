@@ -2,7 +2,7 @@
 
 #### Simple and Fast Embbeded PDF Loader For HTML 
 
-<img src="https://github.com/alltimenoob/PDFViewer/blob/095d5d2ea07a8f8cb8b9be12314f14c005a48b23/PDFViewer.jpg" width="400" height="400" />
+<img src="https://github.com/alltimenoob/PDFViewer/blob/095d5d2ea07a8f8cb8b9be12314f14c005a48b23/PDFViewer.jpg" width="500" height="400" />
 
 ## Setup
 
