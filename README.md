@@ -26,3 +26,10 @@ Create a container for your PDF:
     <div id="pdf-viewer"></div>
     
     
+Load PDF from raw data (base64 encoded):
+
+
+    setData(document.getElementById("data").value); 
+   
+    
+    
