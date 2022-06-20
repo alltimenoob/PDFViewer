@@ -4,7 +4,15 @@
 
 ## Setup
 
-Firstly, Add this script tag at the end of your html body:
+Get the javascript from the cdn:
 
     
     <script src="https://cdn.jsdelivr.net/gh/alltimenoob/PDFViewer/pdfviewer.js"></script>
+
+
+
+Get the clone respository :
+
+
+    gh repo clone alltimenoob/PDFViewer
+    cd pdf.js
