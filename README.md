@@ -1,7 +1,7 @@
 # PDFViewer
 
 #### Simple and Fast Embbeded PDF Loader For HTML 
-![heeheehaw](https://github.com/alltimenoob/PDFViewer/blob/095d5d2ea07a8f8cb8b9be12314f14c005a48b23/PDFViewer.jpg)
+![heeheehaw](https://github.com/alltimenoob/PDFViewer/blob/095d5d2ea07a8f8cb8b9be12314f14c005a48b23/PDFViewer.jpg | width=100)
 
 ## Setup
 
