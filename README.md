@@ -35,6 +35,6 @@ Load PDF from raw data (base64 encoded):
 
 Contact : 
 
-+ https://twitter.com/pdfjs
++ https://twitter.com/solomihir
     
     
