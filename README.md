@@ -1,7 +1,8 @@
 # PDFViewer
 
 #### Simple and Fast Embbeded PDF Loader For HTML 
-![heeheehaw]https://imgur.com/a/XlZgvNJ
+![heeheehaw](https://imgur.com/a/XlZgvNJ)
+
 ## Setup
 
 Get the javascript from the CDN:
